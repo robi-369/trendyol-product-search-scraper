@@ -1,0 +1,7 @@
+{
+    "useApifyProxy": true,
+    "proxyGroup": "US",
+    "countryCode": "tr",
+    "retryAttempts": 3,
+    "ignoreUrlFailures": true
+}
